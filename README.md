@@ -3,7 +3,7 @@
 
 - :microscope: Currently working on using deep learning based biomarkers to help out in the clinic at [AIM Harvard](https://github.com/AIM-Harvard)
 
-- Worked at [Maastro Clinic](https://github.com/Maastro-CDS-Imaging-Group) and [ganslate-team](https://github.com/ganslate-team) on image synthesis (CBCT :arrow_forward: CT) and segmentation (CT) to improve radiotherapy. 
+- :mag:	Investigated image synthesis (CBCT :arrow_forward: CT) and segmentation (CT) techniques to improve radiotherapy at [Maastro Clinic](https://github.com/Maastro-CDS-Imaging-Group) and [ganslate-team](https://github.com/ganslate-team)
 
 - :hammer_and_wrench:	Built various Computer Vision-based functionality for a revolutionary customer assistance platform at [Blinkin](https://blinkin.io/)
 
