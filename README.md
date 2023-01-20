@@ -1,5 +1,5 @@
 # :wave: Hello! I'm Suraj Pai
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231C97B3&lines=Research+Scholar+at+AIM;PhD+Candidate+at+UM)](https://git.io/typing-svg)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231C97B3&lines=Research+Scholar+at+AIM;PhD+Candidate+at+UM)](https://git.io/typing-svg)
 
 - [ ] :microscope: Currently working on using deep learning based biomarkers to help out in the clinic at [AIM Harvard](https://github.com/AIM-Harvard)
 
@@ -14,7 +14,7 @@
 Born to a family of doctors, I was the black sheep, tinkering with computers and ever fascinated by technology. But when you grow up in a household where medical jargon dominates conversations, a certain sentiment toward it develops. I developed a passion to work with health and medical technology. I find it very satisfying to help add value and technology to betterment of healthcare and enabling systems to play my part in helping the society.
 
 ### On Github
-[![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=surajpaib&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars)]
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=surajpaib&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars)
 
 
 
@@ -22,5 +22,5 @@ Born to a family of doctors, I was the black sheep, tinkering with computers and
 [1]: https://scholar.google.com/citations?user=hjAW7t0AAAAJ&hl=en
 [2]: https://www.linkedin.com/in/surajpaib/
 
-[![GoogleScholar](https://img.icons8.com/color/48/000000/google-scholar--v3.png)][1][![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)][2]
+![GoogleScholar](https://img.icons8.com/color/48/000000/google-scholar--v3.png)][1][![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)][2]
 
