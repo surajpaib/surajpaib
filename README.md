@@ -13,6 +13,11 @@
 ### A bit more about me
 Born to a family of doctors, I was the black sheep, tinkering with computers and ever fascinated by technology. But when you grow up in a household where medical jargon dominates conversations, a certain sentiment toward it develops. I developed a passion to work with health and medical technology. I find it very satisfying to help add value and technology to betterment of healthcare and enabling systems to play my part in helping the society.
 
+### On Github
+[!Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=surajpaib&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars)
+
+
+
 ### Profiles
 [1]: https://scholar.google.com/citations?user=hjAW7t0AAAAJ&hl=en
 [2]: https://www.linkedin.com/in/surajpaib/
