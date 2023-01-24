@@ -1,4 +1,4 @@
-# :wave: Hello! I'm Suraj Pai <br> [![LinkedIn](https://img.shields.io/badge/-Suraj_Pai-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surajpaib)](https://www.linkedin.com/in/surajpaib) [![GS](https://img.shields.io/badge/-Suraj_Pai-9cf?logo=GoogleScholar&logoColor=white&link=https://scholar.google.com/citations?user=hjAW7t0AAAAJ&hl=en)](https://scholar.google.com/citations?user=hjAW7t0AAAAJ&hl=en) [![Email](https://img.shields.io/badge/-Suraj_Pai-red?logo=Gmail&logoColor=white&link=mailto:surajballambat@gmail.com)](mailto:surajballambat@gmail.com)
+#  Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Suraj Pai  <br> [![LinkedIn](https://img.shields.io/badge/-Suraj_Pai-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surajpaib)](https://www.linkedin.com/in/surajpaib) [![GS](https://img.shields.io/badge/-Suraj_Pai-9cf?logo=GoogleScholar&logoColor=white&link=https://scholar.google.com/citations?user=hjAW7t0AAAAJ&hl=en)](https://scholar.google.com/citations?user=hjAW7t0AAAAJ&hl=en) [![Email](https://img.shields.io/badge/-Suraj_Pai-red?logo=Gmail&logoColor=white&link=mailto:surajballambat@gmail.com)](mailto:surajballambat@gmail.com)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=1000&lines=Research+Scholar+at+AIM+Lab%2C+Harvard+Medical+School+%26+Mass+General+Brigham;PhD+Candidate+at+Maastricht+University%2C+School+for+Oncology+and+Reproduction;Deep+Learning+Research+and+Development%2C+Medical+Imaging)](https://git.io/typing-svg)
 
@@ -21,6 +21,12 @@ Born to a family of doctors, I was dubbed the black sheep, tinkering with comput
 
 - [ ] 🎓PhD in Artififical Intelligence in Radiology at the [GROW School of Oncology and Reproduction](https://www.maastrichtuniversity.nl/research/grow-school-oncology-and-reproduction)
 - [x] :mortar_board: Masters in Artificial Intelligence at the [DKE](https://www.maastrichtuniversity.nl/research/department-data-science-and-knowledge-engineering-dke) specialized in Deep Learning and Computer Vision. 
+
+---
+
+### Tools, Frameworks and Languages
+I find myself most comfortable with, <br> <br>
+![](https://img.shields.io/badge/Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) 
 
 ---
 
