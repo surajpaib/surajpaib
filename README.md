@@ -6,12 +6,14 @@
 Born to a family of doctors, I was dubbed the black sheep, tinkering with computers and fascinated by anything technological. But, when you grow up in a household where medical jargon dominates conversations, a particular sentiment toward it develops. Progressing through my career, I have attempted to combine my passion for technology with my keen interest in medicine.
 
 🔨 I'm currently working on,
-- [ ] 🔬 Building and evaluating deep learning based biomarkers to help out in the clinic at [AIM Harvard](https://github.com/AIM-Harvard)
+- [ ] Agentic AI for Radiation Therapy Planning
 
-- [ ] 🔥 Contributing and developing a simplified framework to run deep learning models **[project-lighter/lighter](https://github.com/project-lighter/lighter)** 
-</div>
 
 ⏮️ Previously I've enjoyed working with,
+- [x] 🔬 Building and evaluating deep learning based biomarkers to help out in the clinic at [AIM Harvard](https://github.com/AIM-Harvard)
+- [x] Representation learning methods for radiology, mostly contrastive learning
+- [x] 🔥 Contributing and developing a simplified framework to run deep learning models **[project-lighter/lighter](https://github.com/project-lighter/lighter)** 
+</div>
 - [x] :mag:	Image synthesis (CBCT :arrow_forward: CT) and segmentation (CT) techniques to improve radiotherapy at [Maastro Clinic](https://github.com/Maastro-CDS-Imaging-Group) and [ganslate-team](https://github.com/ganslate-team)
 
 - [x] :hammer_and_wrench:	Various Computer Vision-based functionality for a revolutionary customer assistance platform at [Blinkin](https://blinkin.io/)
